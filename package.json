@@ -79,7 +79,7 @@
     "standard": "14.3.3"
   },
   "babel": {
-    "sourceMaps": "inline",
+    "sourceMaps": "both",
     "presets": [
       [
         "@babel/preset-env",
